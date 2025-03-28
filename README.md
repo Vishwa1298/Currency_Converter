@@ -60,9 +60,3 @@ Edit
 val = await GetData("https://openexchangerates.org/api/latest.json?app_id=YOUR_API_KEY");
 Build and run the project.
 
-⚠️ Important Notes
-Ensure you have an active internet connection for API requests.
-
-Free-tier API keys may have limitations (e.g., limited requests per month).
-
-Modify the UI in MainWindow.xaml to enhance the design if needed.
